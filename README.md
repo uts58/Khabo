@@ -1,5 +1,5 @@
 # Khabo-Find restaurant near you!  
-We have used Php/ JavaScripts/ HTML/ CSS/ Ajax/ Bootstrap/ Bing maps API for this project.  
+We have used Php/ mySQL/ JavaScripts/ HTML/ CSS/ Ajax/ Bootstrap/ Bing maps API for this project.  
 We also used phpMailer framework for sending auto-generated mail in this project.  
 I can make this website live on request (www.khabo.tk).  
 
