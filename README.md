@@ -12,10 +12,10 @@ I can make this website live on request (www.khabo.tk).
   -Check restaurant menu  
   -Rate restaurant
   
-5. Shop owner restaurant
-  -Add your restaurant in the map
-  -Add restaurant menu
-  -User features
+5. Shop owner restaurant  
+  -Add your restaurant in the map  
+  -Add restaurant menu  
+  -User features  
   
 # Screenshots
 
